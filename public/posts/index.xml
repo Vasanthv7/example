@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My personal blog</title>
+    <link>https://vasanthv7.github.io/example/posts/</link>
+    <description>Recent content in Posts on My personal blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Oct 2023 13:56:02 +0530</lastBuildDate><atom:link href="https://vasanthv7.github.io/example/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog2</title>
+      <link>https://vasanthv7.github.io/example/posts/blog2/</link>
+      <pubDate>Wed, 25 Oct 2023 13:56:02 +0530</pubDate>
+      
+      <guid>https://vasanthv7.github.io/example/posts/blog2/</guid>
+      <description>#gagyd</description>
+    </item>
+    
+    <item>
+      <title>Blog1</title>
+      <link>https://vasanthv7.github.io/example/posts/blog1/</link>
+      <pubDate>Wed, 25 Oct 2023 09:43:32 +0530</pubDate>
+      
+      <guid>https://vasanthv7.github.io/example/posts/blog1/</guid>
+      <description>Exploring the Wonders of Delhi Delhi, the bustling capital of India, is a city where history, culture, and modernity coexist in perfect harmony. From ancient monuments to vibrant markets and delectable street food, Delhi has something for every traveler. Join me on a journey through the heart of India!
+Day 1: Historical Marvels Red Fort The Red Fort, a UNESCO World Heritage Site, is a symbol of India&amp;rsquo;s rich history. Its stunning red sandstone architecture and intricate designs are awe-inspiring.</description>
+    </item>
+    
+  </channel>
+</rss>
